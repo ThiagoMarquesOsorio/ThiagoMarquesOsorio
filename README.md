@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou @ThiagoMarquesOsorio
-- 👀 Eu estou interessado em estudar programação e compartilhar meus projetos para uma possível contratação do mercado de trabalho.
+- 👀 Eu estou interessado em estudar programação e compartilhar meus projetos para uma possível recolocação no mercado de trabalho.
 - 🌱 Atualmente estou Estudando na plataforma OneBitCode. Formação Full Stack JavaScript
 - 📫 How to reach me ...Insatagram: @thiagomosorio, Email: thiagoemosorio@gmail.com
 
